@@ -1,0 +1,6 @@
+out/
+*.class
+report.html
+.idea/
+.vscode/
+*.iml
